@@ -34,13 +34,14 @@ I learn, I research and most importantly I enjoy all of them.
     </a>
 </p>
 
+-----------------
 
--------------------------------
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" />
-</p>
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tanerincode" alt="tanerincode" />
-    </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
+</p>
+
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="339px" style="margin-right:5px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=380" alt="tanerincode" />
 </p>
