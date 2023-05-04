@@ -40,8 +40,8 @@ I learn, I research and most importantly I enjoy all of them.
 </p>
 <hr/>
 <p align="left">
-  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" style="margin-right:5px" />
-  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=480&line_height=25" alt="tanerincode" />
+  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" />
+  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=480&line_height=25" style="margin-left:10px" alt="tanerincode" />
 </p>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
