@@ -41,7 +41,7 @@ I learn, I research and most importantly I enjoy all of them.
 <hr/>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" style="margin-right:5px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=471" alt="tanerincode" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=470" alt="tanerincode" />
 </p>
 <hr/>
 
