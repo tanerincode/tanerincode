@@ -16,6 +16,7 @@ I learn, I research and most importantly I enjoy all of them.
 -------------------
 
 <h3 align="left">Connect with me:</h3>
+<hr/>
 <p align="left">
     <a href="https://twitter.com/tanertmbs" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanertmbs" height="30" width="40" />
@@ -33,15 +34,31 @@ I learn, I research and most importantly I enjoy all of them.
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tombastaner" height="30" width="40" />
     </a>
 </p>
-
------------------
-
+<hr/>
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
 </p>
-
-
+<hr/>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="339px" style="margin-right:5px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=380" alt="tanerincode" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" style="margin-right:5px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=471" alt="tanerincode" />
 </p>
+<hr/>
+
+> <h2 align="left">Languages :</h2>
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a>
