@@ -17,17 +17,8 @@ I learn, I research and most importantly I enjoy all of them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="padding-top:10px">
-    <a href="https://twitter.com/tanertmbs" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanertmbs" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/tanertombas" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanertombas" height="30" width="40" />
-    </a>
     <a href="https://stackoverflow.com/users/6033262" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6033262" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/tanertombas" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanertombas" height="30" width="40" />
     </a>
     <a href="https://medium.com/@tombastaner" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tombastaner" height="30" width="40" />
