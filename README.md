@@ -29,11 +29,11 @@ I learn, I research and most importantly I enjoy all of them.
     <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
 </p>
 <hr/>
-<p align="left">
+<!-- <p align="left">
   <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" />
   <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=490&hide_progress=true" alt="tanerincode" />
-</p>
-<hr/>
+</p> -->
+<!-- <hr/> -->
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
