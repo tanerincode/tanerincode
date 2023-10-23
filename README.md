@@ -12,7 +12,7 @@ I learn, I research and most importantly I enjoy all of them.
 - 🔭 I’m currently working on [Bluedot](https://github.com/BluedDot-IT)
 
 - 📫 How to reach me **tombastaner@gmail.com**
-
+  
 -------------------
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +24,7 @@ I learn, I research and most importantly I enjoy all of them.
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tombastaner" height="30" width="40" />
     </a>
 </p>
+Feel free to join us : <a href="https://discord.gg/7AMkYMtpy4">Kodarsiv - Discord</a>
 <hr/>
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
