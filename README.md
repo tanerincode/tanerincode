@@ -24,17 +24,13 @@ I learn, I research and most importantly I enjoy all of them.
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tombastaner" height="30" width="40" />
     </a>
 </p>
-Feel free to join us : <a href="https://discord.gg/7AMkYMtpy4">Kodarsiv - Discord</a>
+Feel free to join us : <a href="https://discord.gg/7AMkYMtpy4">Kodarsiv - Discord</a> 
+<br><i>You can always find me on the "HAN" channel!</i>
 <hr/>
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
 </p>
 <hr/>
-<!-- <p align="left">
-  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api?username=tanerincode&show_icons=true&locale=en" alt="tanerincode" width="345px" />
-  <img align="center" src="https://tanerincode-profile-tanerincode.vercel.app/api/top-langs/?username=tanerincode&layout=compact&card_width=490&hide_progress=true" alt="tanerincode" />
-</p> -->
-<!-- <hr/> -->
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
