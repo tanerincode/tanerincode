@@ -9,7 +9,7 @@ with GoLang, following in depth and developing with Python. I work, I read, I pr
 I learn, I research and most importantly I enjoy all of them.
 </p>
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on - @Vigo
 
 - 📫 How to reach me **tombastaner@gmail.com**
   
