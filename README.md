@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm Taner</h1>
 <h4 align="left">I am back-end developer from Turkey.</h4>
 <p>
-My software adventure, which started in 2009 with an internship in Samsun, later took part 
-in various public projects, agencies and freelance projects. When I played around with PHP 
-and realized the power of Laravel I decided to force my limits. I came to Istanbul with this 
-discovery and excitement. These days, besides taking advantage of Laravel, I'm having fun 
-with GoLang, following in depth and developing with Python. I work, I read, I practice what 
-I learn, I research and most importantly I enjoy all of them.
+Throughout my journey as a back-end developer, I've cultivated a unique set of hard and soft skills that have been pivotal in navigating the complexities of technology and team dynamics. My technical acumen spans across a diverse toolkit, including AWS for cloud services, NodeJS and Python for server-side logic, and Laravel for web application framework, equipping me with the versatility to tackle a broad spectrum of challenges.
+On the soft skills front, I pride myself on my leadership abilities, having successfully managed and inspired teams by fostering a culture of collaboration, innovation, and continuous learning. My approach to project management is holistic, balancing meticulous planning with agility to adapt to new information and challenges, ensuring projects not only meet but exceed expectations.
+Critical thinking and problem-solving are at the core of my methodology. I excel in dissecting complex issues to identify root causes and devise effective solutions, a skill that has been instrumental in reducing error rates and enhancing system scalability in high-traffic applications. My communication skills, both verbal and written, have enabled me to bridge the gap between technical teams and non-technical stakeholders, facilitating clear understanding and alignment on project goals and expectations.
+I am committed to lifelong learning and continuously seek to update my knowledge and skills, staying abreast of the latest technologies and methodologies in the fast-evolving field of software development. This dedication not only fuels my personal growth but also ensures that I bring cutting-edge solutions to the table, driving innovation and efficiency.
+Let's connect and explore how we can leverage our collective skills for impactful projects, pushing the boundaries of what's possible through technology.
 </p>
 
 - 📫 How to reach me **tombastaner@gmail.com**
