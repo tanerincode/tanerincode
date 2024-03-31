@@ -1,35 +1,85 @@
-<h1 align="left">Hi 👋, I'm Taner</h1>
-<h4 align="left">I am back-end developer from Turkey.</h4>
-<p>
-Throughout my journey as a back-end developer, I've cultivated a unique set of hard and soft skills that have been pivotal in navigating the complexities of technology and team dynamics. My technical acumen spans across a diverse toolkit, including AWS for cloud services, NodeJS and Python for server-side logic, and Laravel for web application framework, equipping me with the versatility to tackle a broad spectrum of challenges.<br><br>
-On the soft skills front, I pride myself on my leadership abilities, having successfully managed and inspired teams by fostering a culture of collaboration, innovation, and continuous learning. My approach to project management is holistic, balancing meticulous planning with agility to adapt to new information and challenges, ensuring projects not only meet but exceed expectations.<br><br>
-Critical thinking and problem-solving are at the core of my methodology. I excel in dissecting complex issues to identify root causes and devise effective solutions, a skill that has been instrumental in reducing error rates and enhancing system scalability in high-traffic applications. My communication skills, both verbal and written, have enabled me to bridge the gap between technical teams and non-technical stakeholders, facilitating clear understanding and alignment on project goals and expectations.<br><br>
-I am committed to lifelong learning and continuously seek to update my knowledge and skills, staying abreast of the latest technologies and methodologies in the fast-evolving field of software development. This dedication not only fuels my personal growth but also ensures that I bring cutting-edge solutions to the table, driving innovation and efficiency.
-</p>
+<h2 align="left">Hi 👋!</h2>
+###
+<br clear="both">
+<p align="left">Throughout my journey as a back-end developer, I've cultivated a unique set of hard and soft skills that have been pivotal in navigating the complexities of technology and team dynamics. My technical acumen spans across a diverse toolkit, including AWS for cloud services, NodeJS and Python for server-side logic, and Laravel for web application framework, equipping me with the versatility to tackle a broad spectrum of challenges.<br><br>On the soft skills front, I pride myself on my leadership abilities, having successfully managed and inspired teams by fostering a culture of collaboration, innovation, and continuous learning. My approach to project management is holistic, balancing meticulous planning with agility to adapt to new information and challenges, ensuring projects not only meet but exceed expectations.<br><br>Critical thinking and problem-solving are at the core of my methodology. I excel in dissecting complex issues to identify root causes and devise effective solutions, a skill that has been instrumental in reducing error rates and enhancing system scalability in high-traffic applications. My communication skills, both verbal and written, have enabled me to bridge the gap between technical teams and non-technical stakeholders, facilitating clear understanding and alignment on project goals and expectations.<br><br>I am committed to lifelong learning and continuously seek to update my knowledge and skills, staying abreast of the latest technologies and methodologies in the fast-evolving field of software development. This dedication not only fuels my personal growth but also ensures that I bring cutting-edge solutions to the table, driving innovation and efficiency.</p>
 
-- 📫 How to reach me **tombastaner@gmail.com**
-  
--------------------
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="padding-top:10px">
-    <a href="https://stackoverflow.com/users/6033262" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6033262" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@tombastaner" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tombastaner" height="30" width="40" />
-    </a>
-</p>
-Feel free to join us : <a href="https://discord.gg/7AMkYMtpy4">Kodarsiv - Discord</a> 
-<br><i>You can always find me on the "HAN" channel!</i>
-<hr/>
-<p align="left"> 
+<div align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=tanerincode&column=-1&margin-w=15" alt="tanerincode" />
-</p>
-<hr/>
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<p align="left">
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
- </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/tanertombas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/YYqkc8YA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="tombastaner@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tanertombas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tanerincode/tanerincode/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tanerincode/count.svg?"  />
+</div>
+
+###
